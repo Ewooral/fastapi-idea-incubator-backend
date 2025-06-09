@@ -1,3 +1,12 @@
-/.idea
-
+# Python
 .env
+.venv
+__pycache__/
+
+# PyCharm/IDE
+.idea/
+.vscode/
+*.iml
+
+# System
+.DS_Store
